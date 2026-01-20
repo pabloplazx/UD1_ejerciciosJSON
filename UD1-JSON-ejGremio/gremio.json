@@ -1,0 +1,24 @@
+{
+  "miembros" : [ {
+    "alias" : "ArqueroPro",
+    "clase" : "Arquero",
+    "esVip" : true,
+    "inventario" : [ "Arco Largo", "Flechas", "Poción de Mana" ],
+    "nivel" : 45
+  }, {
+    "alias" : "TanqueTotal",
+    "clase" : "Guerrero",
+    "esVip" : false,
+    "inventario" : [ "Escudo Pesado", "Espada Oxidada" ],
+    "nivel" : 60
+  }, {
+    "alias" : "HealerMistico",
+    "clase" : "Sacerdote",
+    "esVip" : true,
+    "inventario" : [ "Vara de Luz", "Poción de Vida", "Pergamino de Resurrección", "porrete" ],
+    "nivel" : 52
+  } ],
+  "nombreGremio" : "Guardianes del Codigo",
+  "ranking" : 150,
+  "servidor" : "Europa-West"
+}
