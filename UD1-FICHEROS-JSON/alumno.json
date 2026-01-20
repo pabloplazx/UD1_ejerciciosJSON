@@ -1,0 +1,14 @@
+{
+  "nombre" : "carlos",
+  "centro" : {
+    "localidad" : "Madrid",
+    "nombre" : "Chacel"
+  },
+  "modulos" : [ {
+    "nombre" : "ad",
+    "nota" : 10
+  }, {
+    "nombre" : "procesos",
+    "nota" : 0
+  } ]
+}
