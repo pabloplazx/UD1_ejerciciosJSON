@@ -1,0 +1,60 @@
+{
+  "organizacion": "Asociación de Héroes",
+  "ciudad": "Metropolis",
+  "presupuesto_anual": 5000000.50,
+  "miembros": [
+    {
+      "alias": "Capitán Fusión",
+      "identidad_secreta": "Alex T.",
+      "edad": 35,
+      "activo": true,
+      "poderes": [
+        "Vuelo",
+        "Superfuerza",
+        "Rayo de energía"
+      ],
+      "equipo": {
+        "nombre": "Los Guardianes",
+        "lider": true
+      }
+    },
+    {
+      "alias": "La Sombra",
+      "identidad_secreta": "Elena M.",
+      "edad": 28,
+      "activo": true,
+      "poderes": [
+        "Invisibilidad",
+        "Teletransporte"
+      ],
+      "equipo": {
+        "nombre": "Los Guardianes",
+        "lider": false
+      }
+    },
+    {
+      "alias": "Lobo Solitario",
+      "identidad_secreta": "Logan",
+      "edad": 150,
+      "activo": false,
+      "poderes": [
+        "Regeneración",
+        "Garras"
+      ],
+      "equipo": null
+    },
+    {
+      "alias": "Tecno-Boy",
+      "identidad_secreta": null,
+      "edad": 19,
+      "activo": true,
+      "poderes": [
+        "Hackeo mental"
+      ],
+      "equipo": {
+        "nombre": "Titanes Jovenes",
+        "lider": false
+      }
+    }
+  ]
+}
